@@ -1,4 +1,4 @@
-const Jobs = [
+[
     {
       "job_id": "aGfB3LbIzUcRPlD3AAAAAA==",
       "employer_name": "Titan Entertainment Group",
